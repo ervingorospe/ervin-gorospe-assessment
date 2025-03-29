@@ -22,3 +22,9 @@
   to = "https://www.google.com"
   status = 200
   force = true
+
+[[redirects]]
+  from = "/my-prox-website"
+  to = "https://ervingorospe-assessment.netlify.app"
+  status = 200
+  force = true
