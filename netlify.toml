@@ -13,12 +13,6 @@
   force = true
 
 [[redirects]]
-  from = "/proxy/google"
-  to = "/"
-  status = 200
-  force = true
-
-[[redirects]]
   from = "/google-search"
   to = "https://www.google.com"
   status = 200
