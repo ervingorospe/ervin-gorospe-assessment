@@ -2,7 +2,8 @@ export default function Home() {
   return (
     <div className="font-[family-name:var(--font-geist-sans)]">
       <main className="mx-auto max-w-screen-xl py-48">
-        <ul className="space-y-12">
+        <h1 className="text-6xl font-bold">Hi, {"I'm"} Ervin Gorospe</h1>
+        <ul className="space-y-12 mt-16">
           <li>
             <h2 className="text-2xl">
               1. Talk about how you made your site and why you chose the tools
