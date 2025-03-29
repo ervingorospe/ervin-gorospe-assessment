@@ -13,7 +13,6 @@
 
 [[redirects]]
   from = "/proxy/google"
-  to = "https://ervingorospe-assessment.netlify.app/"
+  to = "/"
   status = 200
   force = true
-  query = {q = ":q"}
