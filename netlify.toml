@@ -16,3 +16,9 @@
   to = "/"
   status = 200
   force = true
+
+[[redirects]]
+  from = "/google-search"
+  to = "https://www.google.com"
+  status = 200
+  force = true
