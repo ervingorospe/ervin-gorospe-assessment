@@ -10,3 +10,10 @@
   to = "https://www.google.com/search?q=:query"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/proxy/google"
+  to = "https://www.google.com/search"
+  status = 200
+  force = true
+  query = {q = ":q"}
